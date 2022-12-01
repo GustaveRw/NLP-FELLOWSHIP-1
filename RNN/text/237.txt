@@ -1,0 +1,14 @@
+There's a funny moment in tonight's episode where Sheldon gets stuck on a rock-climbing wall and remarks, "What part of an inverse tangent function approaching an asymptote don't you understand?" I thought it'd be helpful to take a moment and examine that joke. A linear asymptote is essentially a straight line to which a graphed curve moves closer and closer but does not reach. In other words, given a function y=fn(x) with asymptote A, A represents a number that, no matter how big (or, given the function, small) you make x, y will never make it to A. The particular example Sheldon quotes is the inverse Tangent function, or Arctangent, which has two asymptotes. If you graph it, it sort of looks like a horizontal S:
+
+
+
+
+
+No matter how big you make x (that is, how far you move to the right), the function is never going to hit that top line (π/2), and no matter how small x gets (moving to the left), y is never going to be smaller than - π/2.
+
+
+The more you know, the funnier it gets.
+
+<< >>
+
+1st Aired: 19 January 2009
